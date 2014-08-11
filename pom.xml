@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>ramda</artifactId>
-    <version>0.3.0</version>
+    <version>0.3.1-SNAPSHOT</version>
     <name>ramda.js</name>
     <description>WebJar for ramda</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>https://github.com/webjars/ramda</url>
         <connection>scm:git:https://github.com/webjars/ramda.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/ramda.git</developerConnection>
-        <tag>ramda-0.3.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <developers>
